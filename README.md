@@ -4,7 +4,7 @@
 
 🎓 &nbsp; Studying Software at the **Dankook University**.\
 💡  &nbsp; Track for learning more about **Systems software**, **Cloud computing**, **Back-End Development**.\
-✍️ &nbsp; Learning at [**Embedded System Laboratory, Dankook Univ**](http://embedded.dankook.ac.kr/).\
+✍️ &nbsp; Learning at [**Embedded System Laboratory, Dankook Univ**](http://embedded.dankook.ac.kr/).
 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwaterfogSW&count_bg=%2377BBFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
