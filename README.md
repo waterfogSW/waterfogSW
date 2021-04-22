@@ -17,7 +17,7 @@
 </a>
 </p>
 
-### 🛠 &nbsp;Tech Experienced
+### 🛠 &nbsp;Experienced
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -37,6 +37,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 ![TravisCI](https://img.shields.io/badge/-TravisCI-05122A?style=flat&logo=TravisCI)&nbsp;
 ![Unreal](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=Unreal)&nbsp;
+![OpenMP](https://img.shields.io/badge/-OpenMP-05122A?style=flat&logo=OpenMP)&nbsp;
 
 ### 🤝🏻 &nbsp;Contact Me
 
