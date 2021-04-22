@@ -17,7 +17,7 @@
 </a>
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Experienced
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -33,6 +33,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
+![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=CUDA)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![TravisCI](https://img.shields.io/badge/-TravisCI-05122A?style=flat&logo=TravisCI)&nbsp;
+![Unreal](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=Unreal)&nbsp;
 
 ### 🤝🏻 &nbsp;Contact Me
 
