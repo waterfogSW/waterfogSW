@@ -2,9 +2,9 @@
 
 ### 💻 &nbsp;About Me
 
-🎓 &nbsp; Studying Software at the **Dankook University**.\
-💡  &nbsp; Track for learning more about **Systems software**, **Cloud computing**, **Back-End Development**.\
-✍️ &nbsp; Learning at [**Embedded System Laboratory, Dankook Univ**](http://embedded.dankook.ac.kr/).
+🎓 &nbsp; Studying Software at the **Dankook University**.(2017~)\
+✍️ &nbsp; Learning at [**Embedded System Laboratory, Dankook Univ**](http://embedded.dankook.ac.kr/).(2021~)\
+💡  &nbsp; Track for learning more about **Systems software**, **Cloud computing**, **Back-End Development**.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
