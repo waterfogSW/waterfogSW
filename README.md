@@ -36,6 +36,7 @@
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![CUDA](https://img.shields.io/badge/-CUDA-05122A?style=flat&logo=CUDA)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx)&nbsp;
 ![TravisCI](https://img.shields.io/badge/-TravisCI-05122A?style=flat&logo=TravisCI)&nbsp;
 ![Unreal](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=Unreal)&nbsp;
 ![OpenMP](https://img.shields.io/badge/-OpenMP-05122A?style=flat&logo=OpenMP)&nbsp;
