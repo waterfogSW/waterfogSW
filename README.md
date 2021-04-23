@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; BS course at **Dankook University**(2017~)
 - ⏸ &nbsp; Served in the military at **2nd Operational Command**(2018~2019)
-- ✍️ &nbsp; Learning at **Embedded System Laboratory, Dankook Univ**
+- ✍️ &nbsp; Learning at **Embedded System Laboratory, Dankook Univ**(2021~)
 - 🧿 &nbsp; Track for learning more about **System software**, **Cloud computing**, **Back-End Development**
 - 🔗 &nbsp; Likes interdisciplinary approach (Not being tied down to specific study area)
 
