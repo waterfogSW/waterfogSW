@@ -47,7 +47,7 @@
 <a href="mailto:waterfog9580@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://waterfogsw.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://waterfogsw.github.io/"/></a>
 <a href="https://www.linkedin.com/in/san-kim-24b5a41b2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/san-kim-24b5a41b2/"/></a>
-<a href="https://instagram.com/_waterfog9580"><img src="https://img.shields.io/badge/__waterfog9580-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_waterfog9580"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwaterfogSW&count_bg=%2377BBFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
