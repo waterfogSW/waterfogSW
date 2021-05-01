@@ -44,7 +44,7 @@
 ### 🤝🏻 &nbsp;Contact Me
 
 <p align="center">
-<a href="mailto:waterfog9580@gmail.com"><img src="https://img.shields.io/badge/-waterfog9580@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:waterfog9580@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://waterfogsw.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://waterfogsw.github.io/"/></a>
 <a href="https://www.linkedin.com/in/san-kim-24b5a41b2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/san-kim-24b5a41b2/"/></a>
 <a href="https://instagram.com/_waterfog9580"><img src="https://img.shields.io/badge/__waterfog9580-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
