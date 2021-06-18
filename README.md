@@ -15,7 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waterfogSW&count_private=true&show_icons=true&theme=tokyonight"/>
 </a>
 </p>
-
+<!-- 
 ### 🛠 &nbsp;Experienced
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -39,7 +39,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![TravisCI](https://img.shields.io/badge/-TravisCI-05122A?style=flat&logo=TravisCI)&nbsp;
 ![Unreal](https://img.shields.io/badge/-Unreal-05122A?style=flat&logo=Unreal)&nbsp;
-![OpenMP](https://img.shields.io/badge/-OpenMP-05122A?style=flat&logo=OpenMP)&nbsp;
+![OpenMP](https://img.shields.io/badge/-OpenMP-05122A?style=flat&logo=OpenMP)&nbsp; -->
 
 ### 🤝🏻 &nbsp;Contact Me
 
