@@ -2,7 +2,7 @@
 **Interested In**
 - Java, Kotlin, Spring, MySQL
 - DDD, Hexagonal Architecture, Classicist TDD
-- FastAPI, Python, Open AI, VectorDB
+- FastAPI, Python, Open AI
 
 **Latest Blog Post**
 
