@@ -1,8 +1,8 @@
 
 **Interested In**
-- Java, Kotlin, Spring, MySQL
+- Kotlin, Java, Spring, MySQL
 - DDD, Hexagonal Architecture, Classicist TDD
-- FastAPI, Python, Open AI
+- Terraform
 
 **Latest Blog Post**
 
