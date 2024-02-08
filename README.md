@@ -1,7 +1,7 @@
 
 **Interested In**
 - Kotlin, Java, Spring, MySQL
-- DDD, Hexagonal Architecture, Classicist TDD
+- DDD, Clean Architecture, Classicist TDD
 - Terraform
 
 **Latest Blog Post**
