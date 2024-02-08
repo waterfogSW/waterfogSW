@@ -7,7 +7,7 @@ MAX_POST = 5
 markdown_text = """
 **Interested In**
 - Java, Kotlin, Spring, MySQL
-- DDD, Hexagonal Architecture, Classicist TDD
+- DDD, Clean Architecture, Classicist TDD
 - FastAPI, Python, Open AI
 
 **Latest Blog Post**
