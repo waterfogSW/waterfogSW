@@ -28,7 +28,6 @@ jobs:
           python readme.py
       - name: Update README.md file
         run: |
-          git pull
           git add .
           # Check if there are any changes. If not, exit the script
           git diff --exit-code --quiet && echo "No changes to commit" && exit 0
