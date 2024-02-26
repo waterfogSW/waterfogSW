@@ -5,7 +5,7 @@
 - FastAPI, Python, Open AI
 
 **Latest Blog Post**
-
+- [2024/02/26 - Kotlin Trailing Lambdas를 활용한 분산락 AOP 구현](https://waterfogsw.tistory.com/64) <br/>
 - [2024/02/05 - [Kotlin] Nullable Value Class 이슈 - JPA Entity](https://waterfogsw.tistory.com/63) <br/>
 - [2023/12/22 - 멀티 모듈 헥사고날 아키텍처로 선착순 쿠폰시스템 만들기](https://waterfogsw.tistory.com/62) <br/>
 - [2023/12/15 - JPA에서 Transactional과 영속성 컨텍스트](https://waterfogsw.tistory.com/61) <br/>
