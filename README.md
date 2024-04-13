@@ -13,5 +13,6 @@
 - [2023/09/07 - [Terraform] AWS Public ECR 리소스 생성 Error : no such host](https://waterfogsw.tistory.com/57) <br/>
 
 
-[![gitanimals](https://render.gitanimals.org/lines/waterfogsw)](https://github.com/devxb/gitanimals)
+[![gitanimals](https://render.gitanimals.org/farms/{username})](https://github.com/devxb/gitanimals)
+
 
