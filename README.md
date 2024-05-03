@@ -11,8 +11,3 @@
 - [2023/12/15 - JPA에서 Transactional과 영속성 컨텍스트](https://waterfogsw.tistory.com/61) <br/>
 - [2023/12/04 - 병렬 트랜잭션 환경에서 만난 데드락 (with. Coroutine, MySQL)](https://waterfogsw.tistory.com/60) <br/>
 - [2023/09/07 - [Terraform] AWS Public ECR 리소스 생성 Error : no such host](https://waterfogsw.tistory.com/57) <br/>
-
-
-[![gitanimals](https://render.gitanimals.org/farms/waterfogsw)](https://github.com/devxb/gitanimals)
-
-
