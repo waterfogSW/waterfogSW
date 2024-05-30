@@ -1,7 +1,7 @@
 
 **Interested In**
 - Kotlin, Spring, MySQL
-- DDD, Clean Architecture, TDD
+- DDD, Clean Architecture
 
 **Latest Blog Post**
 - [2024/02/26 - Kotlin Trailing Lambdas를 활용한 분산락 AOP 구현](https://waterfogsw.tistory.com/64) <br/>
